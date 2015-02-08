@@ -1,0 +1,13 @@
+{
+  "name": "FormBuilder",
+  "version": "1.0",
+  "authors": [
+    "Paulo Castellano <paulocastellano@cloudclinic.com.br>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.2",
+    "bootstrap-datepicker": "~1.3.1",
+    "fontawesome": "~4.3.0"
+  }
+}
