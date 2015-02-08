@@ -1,8 +1,6 @@
 ## FormBuilder
-============
 
 FormBuilder is a generator bootstrap from by Json.
-
 
 ## Live example
 [Click here](http://paulocastellano.github.io/formbuilder) to go.
@@ -12,7 +10,7 @@ FormBuilder is a generator bootstrap from by Json.
 <div id='formbuilder'></div>
 
 <script>
-	FormBuilder.init('#formbuilder'); // formId
+	FormBuilder.init("#formbuilder"); // formId
 </script>
 ```
 
@@ -22,11 +20,10 @@ Formbuilder have any dependencies, all include inside bower.json
 
 
 ## Data format
-
 Use bootstrap-datepicker
 
 
-Json Format example
+## Json Format example
 
 ```javascript
 [{
@@ -97,10 +94,8 @@ or contact by e-mail.
 
 ## Developing
 
-1. `npm install`
-2. `bower install`
-3. `grunt watch`
-4. open `index.html` and you're all set!
+1. `bower install`
+2. open `index.html` and you're all set!
 
 ## License
-MIT
+[MIT](https://github.com/paulocastellano/formbuilder/blob/master/LICENSE)
