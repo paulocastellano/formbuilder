@@ -168,12 +168,6 @@ var FormBuilder = {
 	}
 }
 
-// <div class="form-group">
-//     <div class="col-sm-offset-2 col-sm-6">
-//         <button type="submit" class="btn btn-success">Save</button>
-//     </div>
-// </div>
-
 $(document).ready(function() {
 	FormBuilder.init('#formbuilder');
 
